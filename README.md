@@ -5,10 +5,10 @@ https://github.com/evilphish/sennheiser-gsx-1000
 I have no knowledge of how it works, I just modified the necessary params to make it work on the GSX1200, unfortunately I could not make the 7.1 output work correctly in conjunction with the chat output (both worked in "mono" mode), so I turned off the last one in order 7.1 to work correctly.
 
 You can find documentation and useful information here:
-https://www.reddit.com/r/linux_gaming/comments/b4t06e/sennheiser_gsx_10001200_is_almost_perfect_in_linux/
-https://gist.github.com/augustocdias/4e49515da9226490226d765eb8db898d
-https://alsa.opensrc.org/Device
-https://www.freedesktop.org/wiki/Software/PulseAudio/Backends/ALSA/Profiles/
+- https://www.reddit.com/r/linux_gaming/comments/b4t06e/sennheiser_gsx_10001200_is_almost_perfect_in_linux/
+- https://gist.github.com/augustocdias/4e49515da9226490226d765eb8db898d
+- https://alsa.opensrc.org/Device
+- https://www.freedesktop.org/wiki/Software/PulseAudio/Backends/ALSA/Profiles/
 
 # sennheiser-gsx-1200
 Getting the Sennheiser GSX 1200 DAC to work under Linux
